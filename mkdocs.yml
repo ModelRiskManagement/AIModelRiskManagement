@@ -1,5 +1,7 @@
 site_name: Model Risk Management
 
+strict: false
+
 theme:
   name: material
 
