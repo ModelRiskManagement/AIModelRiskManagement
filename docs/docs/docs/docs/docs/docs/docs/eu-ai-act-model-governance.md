@@ -1,4 +1,4 @@
-# EU AI Act: Model Governance Requirements
+# EU AI Act: Model Governance Requirements 
 
 ## Overview of the EU AI Act
 The EU AI Act is a comprehensive regulatory framework designed to ensure that artificial intelligence systems placed on the EU market are safe, transparent, and respect fundamental rights. It introduces risk-based obligations for AI systems, with the strictest requirements applied to high-risk AI.
