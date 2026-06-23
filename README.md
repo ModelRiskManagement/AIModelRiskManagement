@@ -1,2 +1,2 @@
 # AIModelRiskManagement
-The authoritative reference library for AI Model Risk Management (MRM), governance, validation, and compliance.
+The authoritative reference library for AI Model Risk Management (MRM), governance, validation, and compliance. 
