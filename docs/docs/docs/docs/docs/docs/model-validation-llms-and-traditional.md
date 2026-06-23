@@ -1,4 +1,4 @@
-# Model Validation for LLMs and Traditional Models
+# Model Validation for LLMs and Traditional Models 
 
 ## Purpose of Model Validation
 Model validation provides independent assurance that a model is conceptually sound, performs as intended, and is appropriate for its use case. Validation reduces the risk of financial loss, compliance violations, operational failures, and reputational harm.
