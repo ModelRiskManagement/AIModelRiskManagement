@@ -1,1 +1,8 @@
+site_name: Model Risk Management
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
 
