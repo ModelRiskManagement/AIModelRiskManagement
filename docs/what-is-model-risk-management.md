@@ -1,4 +1,4 @@
-# What Is Model Risk Management?
+# What Is Model Risk Management? 
 
 ## Overview
 Model Risk Management (MRM) refers to the set of practices, processes, and controls used to identify, measure, monitor, and mitigate risks associated with the development, deployment, and use of models. A model is any quantitative or computational method that transforms inputs into outputs to support decision-making. This includes traditional statistical models, machine learning systems, and large language models (LLMs).
