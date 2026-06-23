@@ -1,10 +1,59 @@
-site_name: Model Risk Management
-
-strict: false
+site_name: AI Model Risk Management
+site_description: The authoritative reference library for AI Model Risk Management (MRM), governance, validation, and compliance.
+site_url: https://modelriskmanagement.github.io/AIModelRiskManagement/
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+    - scheme: slate
+      primary: blue
+      accent: indigo
 
 nav:
   - Home: index.md
+  - Foundations:
+      - What is Model Risk Management: what-is-model-risk-management.md
+      - Model Governance for AI Systems: docs/model-governance-for-ai-systems.md
+      - Model Documentation Standards: docs/model-documentation-standards.md
+      - Model Monitoring & Drift Detection: docs/model-monitoring-and-drift-detection.md
+      - Model Risk Tiering & Classification: docs/model-risk-tiering-and-classification.md
+      - Human-in-the-Loop Controls: docs/human-in-the-loop-controls.md
+      - AI Model Failure Modes: docs/ai-model-failure-modes.md
+  - Validation:
+      - Model Validation (LLMs & Traditional): docs/model-validation-llms-and-traditional.md
+  - Regulatory Frameworks:
+      - EU AI Act Model Governance: docs/eu-ai-act-model-governance.md
+      - NIST AI RMF Mappings: docs/nist-ai-rmf-mappings.md
+      - SR 11-7 for AI Models: docs/sr-11-7-for-ai-models.md
+      - ISO 42001 Overview: docs/iso-42001-overview.md
+      - Regulatory Expectations (Banking & Financial Services): docs/regulatory-expectations-banking-and-financial-services.md
+      - Regulatory Tracker: docs/regulatory-tracker.md
+  - Operational Requirements:
+      - Model Inventory Requirements: docs/model-inventory-requirements.md
+      - Templates: docs/templates.md
+      - Vendor Landscape: docs/vendor-landscape.md
 
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+  - def_list
+  - attr_list
+  - md_in_html
