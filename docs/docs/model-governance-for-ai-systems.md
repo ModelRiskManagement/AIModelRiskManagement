@@ -1,4 +1,4 @@
-# Model Governance for AI Systems
+# Model Governance for AI Systems 
 
 ## Governance Framework Overview
 Model governance refers to the structures, processes, and controls that ensure models are developed, deployed, and used responsibly. For AI systems, governance must address both traditional model risks and new risks introduced by machine learning and large language models (LLMs).
