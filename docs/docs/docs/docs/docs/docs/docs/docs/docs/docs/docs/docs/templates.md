@@ -1,4 +1,4 @@
-# Templates
+# Templates 
 
 ## Purpose of Templates
 Templates provide standardized structures for documenting, validating, monitoring, and governing models. They ensure consistency across teams, improve auditability, and reduce the risk of missing required information.
