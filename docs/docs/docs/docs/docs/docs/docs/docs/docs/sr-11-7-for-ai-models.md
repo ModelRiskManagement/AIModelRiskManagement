@@ -1,4 +1,4 @@
-# SR 11-7 for AI Models
+# SR 11-7 for AI Models 
 
 ## Overview
 SR 11-7 is the foundational supervisory guidance for model risk management in the United States. Although originally written with traditional models in mind, regulators have made it clear that AI, ML, and LLM-based systems fall fully within its scope.
